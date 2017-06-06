@@ -5,7 +5,7 @@ header {
     border-bottom: 2px solid black;
 }
 
-#maintitle {
+h1 {
     text-align: center;
     color: lightblue;
 }
@@ -15,6 +15,11 @@ header a {
 }
 
 h2 {
+    font-size: 2em;
+}
+
+#navtitle {
+    font-size: 1.5em;
     margin-left: 50px;
 }
 
